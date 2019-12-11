@@ -7,3 +7,5 @@ mkdir -p /var/log/nginx
 mkdir -p /home/wwwroot/www_globetvs
 mkdir -p /home/wwwroot/videos_globetvs
 
+
+
