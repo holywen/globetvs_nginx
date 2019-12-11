@@ -2,8 +2,8 @@
 
 cp globetvs_cn.conf /etc/nginx/conf/conf.d
 
-mkdir -p  /www/web/cache
+mkdir -p  /home/wwwroot/cache
 mkdir -p /var/log/nginx
-mkdir -p /www/web/www_globetvs
-mkdir -p /www/web/videos_globetvs
+mkdir -p /home/wwwroot/www_globetvs
+mkdir -p /home/wwwroot/videos_globetvs
 
