@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp globetvs_cn.conf /etc/nginx/conf/conf.d
+cp globetvs_cn.conf /etc/nginx/sites-enabled
 
 mkdir -p  /home/wwwroot/cache
 mkdir -p /var/log/nginx
